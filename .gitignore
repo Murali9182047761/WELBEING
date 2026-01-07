@@ -1,5 +1,21 @@
+# Node / React / Vite
 node_modules/
-.env
 dist/
 build/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pkl
+
+# OS / Editor files
+.DS_Store
+.vscode/
+
+# ML / build artifacts
+artifacts/
+
+# Logs
 *.log
